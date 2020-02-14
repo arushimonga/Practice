@@ -1,2 +1,2 @@
 # Maths Functions
-Timer Updated
+Updated by Timer
